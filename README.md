@@ -1,6 +1,6 @@
 <h1 align="center"> JPG_To_PNG </h1>
 
-install dependinces 
+install Dependencies
 ```
 pip install -r requerment.txt
 ```
